@@ -1,5 +1,6 @@
 ### Hi there 👋
 I have 8+ years of Full Stack Development Career.
+
 My emphasis is on developing data-driven applications for small businesses largely or internal use, however I have also developed and published a number of different types of Web/Mobile/Embedded System Platforms.
 
 - 🔭 <strong>Flutter/React Native/Ionic</strong> for Mobile App
